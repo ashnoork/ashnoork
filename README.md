@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi 👋 My name is Ashnoor
+Hi 👋 I'm Ashnoor
 ========================
 
 Software Developer and a Tech Enthusiast
