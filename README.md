@@ -6,8 +6,11 @@ Hi 👋 My name is Ashnoor
 Software Developer and a Tech Enthusiast
 ----------------------------------------
 
-* ✉️  You can contact me at [ashnoor697@gmail.com](mailto:ashnoor697@gmail.com)
-* 🤝  I'm open to collaborating on projects
+* 🔭 I’m currently working on a fullstack app using the MERN stack
+* 🌱 I’m currently learning AWS
+* 🤝 I'm open to collaborating on projects
+*  ✉️ You can contact me at [ashnoor697@gmail.com](mailto:ashnoor697@gmail.com)
+*  😄 Pronouns: She/her
 
 ### Skills
 
